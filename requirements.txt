@@ -1,0 +1,12 @@
+langchain
+langgraph
+together
+pydantic-settings
+python-dotenv
+together
+PyMuPDF
+markdown-it-py
+pytest
+langchain-text-splitters
+Jinja2
+

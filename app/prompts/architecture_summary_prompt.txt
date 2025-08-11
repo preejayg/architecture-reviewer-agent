@@ -1,0 +1,18 @@
+You are a senior enterprise architect.
+
+Summarize the following architecture document. Include:
+- Purpose
+- Scope
+- Key decisions
+- Stakeholders
+- Technologies
+
+Document:
+{{ document_content }}
+
+Please respond in JSON format with:
+- title: (suggested title)
+- summary: (brief 3-5 sentence summary)
+- topics: (list of key topics or domains)
+
+Respond with only JSON.

@@ -1,0 +1,60 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings (VS Code / Cursor)
+.vscode/
+.cursor/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS system files
+.DS_Store
+
+# PyCharm settings
+.idea/
+
+# Python test cache
+.pytest_cache/
+.cache/
+
+# Log files
+*.log
+
+# Environment variables or settings
+.env
+*.env
+.env.*
+
+# Package and dependency artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# LangChain / LangGraph temp storage
+langchain.db
+*.sqlite
+
+# MyPy and coverage
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Pip download cache
+pip-wheel-metadata/
+
+# Markdown and temp export
+*.pdf
+*.md.tmp
+
+# Optional: system-specific files
+Thumbs.db

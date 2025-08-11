@@ -1,0 +1,15 @@
+You are a senior enterprise architect.
+
+Review the following design:
+{{ document_content }}
+
+Score against AWS Well-Architected pillars (1-5 each):
+- Security
+- Reliability
+- Performance
+- Cost
+- Operations
+
+Suggest improvements.
+
+Return response in markdown.
